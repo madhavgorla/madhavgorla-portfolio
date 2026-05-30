@@ -10,7 +10,19 @@
 
 ## 📸 Preview
 
-![Portfolio Preview](preview.png)
+<img width="954" height="450" alt="image" src="https://github.com/user-attachments/assets/095adbdd-4cb6-49da-b208-361883c94f9e" />
+
+<img width="939" height="442" alt="image" src="https://github.com/user-attachments/assets/aa22d7ae-16f0-49da-85cc-2c216116750f" />
+
+<img width="936" height="445" alt="image" src="https://github.com/user-attachments/assets/079006ac-1e74-4d44-a4c2-440abbacb21b" />
+
+<img width="950" height="430" alt="image" src="https://github.com/user-attachments/assets/b237be70-c385-4487-99df-1dfbaecd21ca" />
+
+<img width="938" height="445" alt="image" src="https://github.com/user-attachments/assets/9d8dede0-ac02-4dac-8dff-2ff30ea399cc" />
+
+<img width="939" height="446" alt="image" src="https://github.com/user-attachments/assets/7711fafd-1281-478c-9d36-dca1e6cd1069" />
+
+<img width="941" height="447" alt="image" src="https://github.com/user-attachments/assets/c57a77c5-b97a-4c7d-94ee-88e8b96a24f1" />
 
 ---
 
